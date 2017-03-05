@@ -1,4 +1,6 @@
 ## Octotree
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Mattlk13/octotree.svg)](https://greenkeeper.io/)
 Browser extension (Chrome, Firefox, Opera and Safari) to show a code tree on GitHub and GitLab. Awesome for exploring project source without having to pull every single repository to your machine. Features:
 
 * Easy-to-navigate code tree, just like in IDEs
