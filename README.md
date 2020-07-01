@@ -1,6 +1,6 @@
 ## About
 
-Browser extension that improves GitHub code review and exploration. This repository contains the source code of a limited version of Octotree. You can download the full-featured version for your browser from [our website](https://www.octotree.io). Octotree supports Chrome, Firefox, Opera and Safari.
+Browser extension that enhances GitHub code review and exploration. This repository contains the source code of a limited version of Octotree. You can download the full-featured version for your browser from [our website](https://www.octotree.io). Octotree supports Chrome, Firefox, Opera and Safari.
 
 ### Learn more
 
